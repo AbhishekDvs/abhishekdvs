@@ -1,30 +1,49 @@
 # Hi there 👋, I'm Abhishek  
 
-💻 **Full Stack Developer | OSINT Enthusiast | Creator of Red & BlunderBot**  
+💻 **Full Stack Developer | OSINT Enthusiast | Creator of Linux Terminal Sandbox, Red & BlunderBot**  
 
 ---
 
 ### 🚀 About Me
 - 🛠️ Building with **Next.js, FastAPI, AI integrations, and system design**  
-- 🕵️ Passionate about **security, cryptography, and OSINT research**  
+- 🕵️ Passionate about **security, cryptography, and OSINT research**
+- Check out my portfolio on [Portfolio](https://abhisdistro.pages.dev) 
 - 📸 Photography on [Instagram](https://instagram.com/fourforcephoto)  
 - ♟️ Chess addict — playing and training with my bot **BlunderBot**  
-- 🕰️ Watch enthusiast | 🏍️ Royal Enfield rider | 🐧 Linux tinkerer  
+- 🕰️ Watch enthusiast | 🏍️ Himalayan 450 rider | 🐧 Linux tinkerer  
 
 ---
+### 🛠️ Tech Stack  
 
-### 🛠️ Tech Stack
-- **Frontend:** Next.js, React, TailwindCSS  
-- **Backend:** FastAPI, Node.js, REST APIs  
-- **Databases:** PostgreSQL, MongoDB, SQLite  
-- **Other:** Cloudflare, Render, Linux, OSINT tools  
+**Frontend**  
+- React, Next.js, React Native, Flutter, Tailwind CSS, Electron.js  
+
+**Backend**  
+- Node.js, Express, FastAPI, LangChain.js  
+
+**Databases & Cloud**  
+- MongoDB, SQL Server, MySQL, PostgreSQL, Azure Cosmos DB, Firebase, AWS  
+
+**Languages**  
+- TypeScript, JavaScript, Python, Java, SQL, GraphQL  
+
+**Tools & Utilities**  
+- Git, Docker, Figma, Yarn  
+
+**Networking & Security**  
+- TCPDump, Wireshark, Splunk, Google Chronicle  
+
+**Operating Systems**  
+- Linux (Arch-based, Debian-based)
+
+**Other:** Cloudflare, Render, Linux, OSINT tools  
 
 ---
 
 ### 📌 Featured Projects
 - 🔹 [**BlunderBot**](https://blunderbot.pages.dev/) – A playful chess bot with themed boards and Stockfish brain  
 - 🔹 [**Linux Terminal Sandbox**](https://terminalsandbox.pages.dev/) – Safe, browser-based Linux terminal (complete & live)  
-- 🔹 **Red (OSINT Toolkit)** – 🚧 Work in Progress: Mobile + web OSINT platform with neomorphic UI  
+- 🔹 **Red (OSINT Toolkit)** – 🚧 Work in Progress: Mobile + web OSINT platform
 
 ---
 
@@ -34,10 +53,9 @@
 ---
 
 ### 🌐 Connect with Me
+- 🌍 [Portfolio](https://abhisdistro.pages.dev) 
 - 📸 [Instagram](https://instagram.com/fourforcephoto)  
-- 💼 (LinkedIn if you’d like to add)  
-- 🐦 (Twitter/X if you want it public)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/allstarabhishek/)  
+- 🐦 [X](https://x.com/AbhisheksDistro)  
 
 ---
-
-✨ *“Building things that mix code, creativity, and curiosity.”*  
