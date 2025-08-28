@@ -29,7 +29,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdvs&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdvs&layout=compact&theme=radical)  
 
 ---
