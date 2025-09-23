@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abhishek  
 
-💻 **Full Stack Developer | OSINT Enthusiast | Creator of Linux Terminal Sandbox, Red & BlunderBot**  
+💻 **Full Stack Developer | OSINT Enthusiast | Creator of Linux Terminal Sandbox, BlunderBot & Red**  
 
 ---
 
